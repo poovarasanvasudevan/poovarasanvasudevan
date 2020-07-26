@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-This is Poovarasan Vasudevan, I am a Software Engineer with experience in building Server and Mobile applications using Native iOS, Android,Flutter, React, Python, Go, Java, Ruby, Rust and Node. And has experience in building AI/ML based Projects using Tensorflow, Keras and Pytorch
-I love to collaborating with talented people and being inspired. 
+This is Poovarasan Vasudevan, I am a Software Engineer with experience in building Server and Mobile applications using Native iOS, Android,Flutter, React, Python, Go, Java, Ruby, Rust and Node. <br/>And has experience in building AI/ML based Projects using Tensorflow, Keras and Pytorch
+<br/>I love to collaborating with talented people and being inspired. 
 
 - 🔭 I’m currently working on building Neural Network to track symtoms of normal disease using Tensorflow
 - 🌱 I’m currently learning SwiftUI, Combine and Flutter
