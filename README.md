@@ -5,7 +5,7 @@ This is Poovarasan Vasudevan, I am a Software Engineer with experience in buildi
 
 - 🔭 I’m currently working on building Neural Network to track symtoms of normal disease using Tensorflow
 - 🌱 I’m currently learning SwiftUI, Combine and Flutter
-- 👯 I’m looking to collaborate on any open source project written in SwiftUI
+- 👯 I’m looking to collaborate on any open source project written in Python, Go, Java, Rust
 - 🖥 I always used to explore new things. 
 - 📫 How to reach me: [Twitter](https://twitter.com/PoovarasanV), [Linkedin](https://www.linkedin.com/in/poovarasan-vasudevan-a661b190/)
 
