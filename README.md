@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhomlala" alt="jhomlala" /></a> </p>
+
 
 
 This is Poovarasan Vasudevan, I am a Software Engineer with experience in building Server and Mobile applications using Native iOS, Android,Flutter, React, Python, Go, Java, Ruby, Rust and Node. and has experience in building AI/ML based Projects using Tensorflow, Keras and Pytorch
@@ -11,6 +11,18 @@ This is Poovarasan Vasudevan, I am a Software Engineer with experience in buildi
 - 👯 I’m looking to collaborate on any open source project written in Python, Go, Java, Rust
 - 🖥 I always used to explore new things. 
 - 📫 How to reach me: [Twitter](https://twitter.com/PoovarasanV), [Linkedin](https://www.linkedin.com/in/poovarasan-vasudevan-a661b190/)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhomlala" alt="jhomlala" /></a> </p>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Jetpack Compose    30 mins         ███████████████▒▒▒░░░░░░░  60 % 
+Python 3.9         22 mins         ███████▓░░░░░░░░░░░░░░░░░   30 % 
+```
+<!--END_SECTION:waka-->
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -45,7 +57,7 @@ This is Poovarasan Vasudevan, I am a Software Engineer with experience in buildi
 [![Twitter: PoovarasanV](https://img.shields.io/twitter/follow/PoovarasanV?style=social)](https://twitter.com/PoovarasanV)
 [![Linkedin: poovarasan-vasudevan-a661b190](https://img.shields.io/badge/-poovarasanvasudevan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poovarasan-vasudevan-a661b190/)](https://www.linkedin.com/in/poovarasan-vasudevan-a661b190/)
 [![GitHub poovarasanvasudevan](https://img.shields.io/github/followers/poovarasanvasudevan?label=follow&style=social)](https://github.com/poovarasanvasudevan)
-
+![](https://visitor-badge.glitch.me/badge?page_id=poovarasanvasudevan)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=poovarasanvasudevan&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=008AF8">
