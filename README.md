@@ -13,7 +13,7 @@ This is Poovarasan Vasudevan, I am a Software Engineer with experience in buildi
 - 📫 How to reach me: [Twitter](https://twitter.com/PoovarasanV), [Linkedin](https://www.linkedin.com/in/poovarasan-vasudevan-a661b190/)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poovarasanvasudevan&margin-w=15" alt="poovarasanvasudevan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poovarasanvasudevan&margin-w=15&&margin-h=15&&theme=juicyfresh&row=2&column=4" alt="poovarasanvasudevan" /></a> </p>
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
