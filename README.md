@@ -4,13 +4,13 @@
 
 
 This is Poovarasan Vasudevan, I am a Software Engineer with experience in building Server and Mobile applications using Native iOS, Android,Flutter, React, Python, Go, Java, Ruby, Rust and Node. and has experience in building AI/ML based Projects using Tensorflow, Keras and Pytorch
-<br/>I love to collaborating with talented people and being inspired. 
+<br/>
+<br/>
+I love to collaborating with talented people and being inspired. 
 
-- 🔭 I’m currently working on building Neural Network to track symtoms of normal disease using Tensorflow
-- 🌱 I’m currently learning SwiftUI, Combine and Flutter
+- 🔭 I’m currently working at <b>HTC Global Service</b>
 - 👯 I’m looking to collaborate on any open source project written in Python, Go, Java, Rust
 - 🖥 I always used to explore new things. 
-- 📫 How to reach me: [Twitter](https://twitter.com/PoovarasanV), [Linkedin](https://www.linkedin.com/in/poovarasan-vasudevan-a661b190/)
 
 <h3>Things I code with</h3>
 <p>
@@ -74,8 +74,11 @@ This is Poovarasan Vasudevan, I am a Software Engineer with experience in buildi
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 
-<h3>Profile Stat</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=poovarasanvasudevan&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=008AF8">
+<h3>⚡ Development Stuff</h3>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=poovarasanvasudevan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poovarasanvasudevan&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/poovarasanvasudevan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/PoovarasanV" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/poovarasan-vasudevan-a661b190" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
